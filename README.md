@@ -4,7 +4,7 @@
   
 - 현재는 스마트제조연구실에서 학부연구생으로 근무중이며, 제조데이터와 AI을 융합한 연구를 진행하고 있습니다!
   
-- 주 관심분야는 `**Data Science**`이며, 그중에서도 `**Deep learning**` ,`**Computer Vision**` 에 대해 공부중입니다!
+- 주 관심분야는 `Data Science`이며, 그중에서도 `Deep learning` ,`Computer Vision`에 관심을 가지며 공부중입니다!
 
 **🛠️ Main Stacks**
 ---
