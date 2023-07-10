@@ -19,13 +19,24 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
+**✏️underway project**
+---
+- 스마트 팩토리 확산을 위한 표준 데이터 측정 및 공장 솔루션 개발 방법론 연구- Yolo를 통한 CNC공구 마모 정량화 (2023-03-01 ~ )
+
+<a href="https://github.com/Hottato/Project/tree/main/CNC_LGBM_DNN"><img src="https://img.shields.io/badge/CNC_Yolo-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>  
+
+⬆️ Click!
+
+---
+
+
 **📜Paper**
 ---
 - 가공 조건에 따른 CNC 공작기계의 스핀들 모터 전류 부하 예측 모델 개발 (제1저자)  
 : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002978479
 
- <a href="https://github.com/Hottato/CNC_lgbm_DNN"><img src="https://img.shields.io/badge/CNC_Project-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>  
- **⬆️ Click!**
+<a href="https://github.com/Hottato/Project/tree/main/CNC_LGBM_DNN"><img src="https://img.shields.io/badge/CNC_DNN_LGBM-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>  
+⬆️ Click!
 
 ---
 
