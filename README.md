@@ -19,7 +19,7 @@
 
 **📜Paper**
 ---
--가공 조건에 따른 CNC 공작기계의 스핀들 모터 전류 부하 예측 모델 개발(1저자)
+- 가공 조건에 따른 CNC 공작기계의 스핀들 모터 전류 부하 예측 모델 개발(1저자)
 
 : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002978479
 ---
