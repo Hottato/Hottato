@@ -23,7 +23,7 @@
 ---
 - 스마트 팩토리 확산을 위한 표준 데이터 측정 및 공장 솔루션 개발 방법론 연구- Yolo를 통한 CNC공구 마모 정량화 (2023-03-01 ~ )
 
-<a href="https://github.com/Hottato/Project/tree/main/CNC_LGBM_DNN"><img src="https://img.shields.io/badge/CNC_Yolo-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>  
+<a href="https://github.com/Hottato/Project/tree/main/CNC_YOLOV8_Segmodel"><img src="https://img.shields.io/badge/CNC_Yolo-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>  
 
 ⬆️ Click!
 
