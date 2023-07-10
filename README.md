@@ -26,7 +26,7 @@
 **🏆 Awards**
 ---
 - 신한그룹 빅데이터 해커톤 (신빅해) 신한라이프 부분, 데이터분석 **우수상**: 신한카드 고객데이터를 군집분석을 통해 보험마케팅 전략 수립
----
+
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hottato&theme=vue&mode=weekly)](https://git.io/streak-stats)
